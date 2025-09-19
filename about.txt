@@ -1,0 +1,3 @@
+"This is Rama Vinuthna Penmetsa"
+I am Studying  3rd BSC-AI
+I learn how to create a respository,add file,and update the file in GitHub.
